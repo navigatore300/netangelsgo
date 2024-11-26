@@ -1,4 +1,4 @@
-module github.com/navigatore300/netangeslgo
+module github.com/navigatore300/netangelsgo
 
 go 1.22.0
 
